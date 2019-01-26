@@ -16,9 +16,6 @@ jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable code_prettify/code_prettify
 jupyter nbextension enable scratchpad/main
 
-# install ailab as package
-pip install --editable .
-
 # http://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064
 mkdir /home/jovyan/.jupyter/custom
 cp ./binder/custom.js /home/jovyan/.jupyter/custom/custom.js
