@@ -1,0 +1,27 @@
+numpy
+matplotlib
+pandas
+sklearn
+sklearn-pandas
+joblib
+scipy
+shap
+lime
+dash
+dash-renderer
+dash-html-components
+dash-core-components
+plotly
+dash_table_experiments 
+dash_auth
+seaborn
+
+# dash/flask issue, https://github.com/plotly/dash/issues/257
+flask==0.12.2
+ipywidgets
+jupyter_contrib_nbextensions
+nbserverproxy
+appmode
+pandas-profiling
+
+fastai
